@@ -1,12 +1,13 @@
 
 
+
+<h1 align="center">Circuit</h1>
+<p align="center">Fine-tuned Phi-3 for Logical Reasoning</p>
+
 <p align="center">
   <img src="https://i.postimg.cc/Nfnst2F9/Circuit.png" alt="Circuit Logo" style="max-width:100%; height:auto;">
 </p>
 
-
-<h1 align="center">Circuit</h1>
-<p align="center">Fine-tuned Phi-3 for Logical Reasoning</p>
 
 # Model performance 
 
