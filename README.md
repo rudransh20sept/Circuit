@@ -1,6 +1,9 @@
+
+
 <p align="center">
-  <img src="https://i.postimg.cc/Nfnst2F9/Circuit.png" alt="Circuit Logo" width="200">
+  <img src="https://i.postimg.cc/Nfnst2F9/Circuit.png" alt="Circuit Logo" style="max-width:100%; height:auto;">
 </p>
+
 
 <h1 align="center">Circuit</h1>
 <p align="center">Fine-tuned Phi-3 for Logical Reasoning</p>
@@ -11,7 +14,7 @@
 
 
 <p align="center">
-  <img src="https://i.postimg.cc/Nfnst2F9/Circuit.png" alt="Circuit Logo" width="200">
+  <img src="https://i.postimg.cc/85pjRhwf/daata.png" alt="App Screenshot" style="max-width:100%; height:auto;">
 </p>
 
 Trained on the [lucasmccabe/logiqa](https://huggingface.co/datasets/lucasmccabe/logiqa) dataset, Circuit enhances the model’s ability to reason through complex problems, answer multi-step logic questions, and provide consistent explanations.
